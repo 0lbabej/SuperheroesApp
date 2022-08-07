@@ -2,7 +2,6 @@
 <resources>
 
     <style name="Theme.SuperheroesApp" parent="android:Theme.Material.Light.NoActionBar">
-    <item name="android:statusBarColor">#FFFDFCF4</item>
-    <item name="android:enforceStatusBarContrast"></item>
+    <item name="android:statusBarColor">@color/background</item>
     </style>
 </resources>
